@@ -1,4 +1,4 @@
-### Hi there 👋
+### I'm Student with ambitions for Deep Learning Research 😄
 
 <!--
 **Louis99Choi/Louis99Choi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
